@@ -39,6 +39,7 @@ Play drum sounds by clicking buttons or pressing keys on your keyboard.
 
 ## 📂 Project Structure
 
+```
 Drum-Kit/
 ├── index.html
 ├── styles.css
@@ -59,6 +60,7 @@ Drum-Kit/
 ├── snare.png
 ├── crash.png
 └── kick.png
+```
 
 ---
 
@@ -70,3 +72,6 @@ Drum-Kit/
 
 ---
 
+## ❤️ Credits
+
+Made with ❤️ while learning with Udemy.
